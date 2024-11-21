@@ -1,0 +1,61 @@
+body{
+   color: white; background-color: black; 
+   margin: 0px;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+header{
+    border-bottom:solid 2px red ;
+    padding-left: 40px;
+    font-size: 42px;
+    
+}
+.videos img{
+    opacity: 0.5;
+    height: 200px;
+    display: flexbox;
+    overflow-x: auto;
+    gap: 20px;
+} 
+.videos img:hover{
+    opacity: 1.0;
+    border:1px solid yellow;
+}
+section{
+    background-color: gray;
+    padding-left: 35px;
+    padding-right: 20px;
+    margin-top: 30px;
+}
+
+.txwhite{
+    color:white;
+}
+.txverde{
+    color:green;
+}
+.txvermelho{
+    color:red;
+}
+b{
+    color: white;
+}
+h1{color: green 
+
+}
+div{
+    border-bottom: solid 2px red;
+}
+p{
+    font-size: 22px;
+    color:antiquewhite ;
+}
+.p1{
+    font-size: 30px;
+    padding-left: 10px;
+}
+.img1 img{
+    padding-left: 150px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
